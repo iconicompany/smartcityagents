@@ -1,5 +1,6 @@
-# smartcityagents
-Умные агенты для города
+![smartcityagents](./images/hero.jpg)
+
+# Умные агенты для города
 
 ## Процессы
 
